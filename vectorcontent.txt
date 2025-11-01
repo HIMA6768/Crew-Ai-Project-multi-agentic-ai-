@@ -1,0 +1,34 @@
+
+Title:
+Comparative Study on AI Governance and Responsible Development Frameworks
+
+Abstract:
+This study benchmarks Google’s Responsible AI framework (2025) against governance principles outlined in “Perspectives on Issues in AI Governance.” It evaluates how corporate AI frameworks operationalize safety, fairness, explainability, and accountability in alignment with global governance expectations. The goal is to generate structured insights that can be retrieved through RAG and verified via web search to compare current industry practices.
+
+Key Findings (Condensed):
+
+Governance: Google applies a full-stack governance model (Govern–Map–Measure–Manage) aligned with NIST’s AI RMF.
+
+Explainability: “Perspectives” stresses contextual explainability standards and contestability, while Google emphasizes transparency artifacts (model cards, audits).
+
+Fairness: Both advocate fairness audits; Google operationalizes fairness via Facets & TensorFlow What-If tools.
+
+Safety: Multi-layered red teaming and certifications in Google’s framework correspond to proposed safety certification norms in “Perspectives.”
+
+Human Oversight: Both frameworks endorse “human-in-loop” for critical decisions.
+
+Liability & Governance Maturity: Google’s ISO/IEC 42001 certification and Frontier Safety Framework represent advanced maturity levels relative to public policy guidance.
+
+Convergence Points:
+
+Shared priority on transparency, fairness, and accountability.
+
+Multi-stakeholder collaboration for evolving AI standards.
+
+Preference for adaptable, co-regulatory models.
+
+Divergence Points:
+
+“Perspectives” pushes for governmental oversight; Google relies on self-regulation and internal audits.
+
+Google’s frameworks are implementation-driven; the policy paper is principle-driven.
