@@ -60,4 +60,4 @@ The agents collaboratively retrieve, analyze, and synthesize information to gene
 * Himadri Ghosh
 
 ---
-**IntelliCrew** showcases how structured multi-agent systems powered by **CrewAI** and **Graph of Thought prompting** can automate deep research, reasoning, and validation—paving the way for scalable, explainable GenAI systems.
+
