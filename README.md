@@ -1,4 +1,4 @@
-# 🧠 **Project Name: IntelliCrew — A Multi-Agent GenAI Framework**
+# 🧠 **Project Name: Multi-Agent GenAI Framework**
 
 ### 🚀 *Collaborative AI Agents for Research Automation and Knowledge Evaluation*
 
@@ -6,7 +6,7 @@
 
 ## 📘 **Overview**
 
-**IntelliCrew** is an intelligent multi-agent system built using **CrewAI Framework** and **Graph of Thought Prompting Strategy**.
+This is an intelligent multi-agent system built using **CrewAI Framework** and **Graph of Thought Prompting Strategy**.
 The project demonstrates how autonomous AI agents can **collaborate** to perform complex reasoning, research synthesis, and factual evaluation using **Retrieval-Augmented Generation (RAG)** techniques.
 
 This framework simulates a **research assistant team**, where each agent plays a specific role such as writing, reviewing, synthesizing, retrieving, and planning research workflows.
