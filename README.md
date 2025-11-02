@@ -34,6 +34,9 @@ This framework simulates a **research assistant team**, where each agent plays a
 | 🦯 **Query Planner Agent** | Decomposes queries into atomic intents  | Selects the optimal retrieval strategy (vector vs web).                |
 
 ---
+## ** prompt flowchart(Graph of Thought Prompting) **
+![prompt flowchart](https://github.com/user-attachments/assets/7f8260df-7f4b-4d88-af0d-01ab20797428)
+
 
 ## 🧪 **Sample Research Query**
 
